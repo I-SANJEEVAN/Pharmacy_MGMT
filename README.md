@@ -21,6 +21,7 @@ After Creating Database,
 
 
 Before all opening , in browser my sql -- Navigate to admin credentials -> in table structure add IS_LOGGED_IN - varchar(10) - utf16_bin , add related all and then go to link where ![image](https://github.com/user-attachments/assets/091ae1a9-a8c8-4567-97df-320cfeafcb2a)
-Login Details
+
+##Login Details
 Username: admin
 Password: admin123
